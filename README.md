@@ -3,7 +3,7 @@ Data provided. Code from scratch.
 
 Assignment Description:
 
-  -Create a script that will loop through all the stocks for one year for each run and take the following information.
+   Create a script that will loop through all the stocks for one year for each run and take the following information.
 
 
   -The ticker symbol.
