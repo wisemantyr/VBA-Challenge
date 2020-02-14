@@ -1,4 +1,5 @@
 # VBA-Challenge
+Data provided. Code from scratch.
 
 Assignment Description:
 
@@ -20,5 +21,4 @@ Assignment Description:
 
 
   -You should also have conditional formatting that will highlight positive change in green and negative change in red.
-  
-Data provided. Code from scratch.
+
