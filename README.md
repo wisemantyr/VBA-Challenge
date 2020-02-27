@@ -1,6 +1,6 @@
 # VBA-Challenge
 
-*(Data was provided. Code written from scratch)*
+*(Data provided. Code original)*
 
 **Assignment Description:**
 
